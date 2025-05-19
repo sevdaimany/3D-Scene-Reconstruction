@@ -1,0 +1,9 @@
+Setup	NumMatches	NumInliers_FMatrix	NumInliers_Homography	InlierRatio_FMatrix	InlierRatio_Homography	HomographySuccess	Parameters
+MATLAB SIFT + MATLAB matchFeatures	399	349	321	0.87468671679198	0.804511278195489	1	"{""MatchThreshold"":100,""MaxRatio"":0.1}"
+MATLAB SIFT + MATLAB matchFeatures	142	127	117	0.894366197183099	0.823943661971831	1	"{""MatchThreshold"":50,""MaxRatio"":0.05}"
+VLFeat SIFT + VLFeat matcher	150	128	117	0.853333333333333	0.78	1	"{""TopNMatches"":150}"
+VLFeat SIFT + VLFeat matcher	300	264	249	0.88	0.83	1	"{""TopNMatches"":300}"
+MATLAB SIFT + Custom NNDR	351	323	284	0.92022792022792	0.809116809116809	1	"{""NNDRThreshold"":0.3}"
+VLFeat SIFT + Custom NNDR	467	441	394	0.944325481798715	0.843683083511777	1	"{""NNDRThreshold"":0.3}"
+MATLAB SIFT + Custom NNDR	85	78	72	0.917647058823529	0.847058823529412	1	"{""NNDRThreshold"":0.2}"
+VLFeat SIFT + Custom NNDR	231	214	206	0.926406926406926	0.891774891774892	1	"{""NNDRThreshold"":0.2}"
