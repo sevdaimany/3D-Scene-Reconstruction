@@ -121,8 +121,8 @@ This section provides screenshots that illustrate the outcomes of the 3D reconst
 Below is the result of the full Euclidean 3D reconstruction using the captured images of the real-world scene. 
 
 <p float="left">
-  <img src="https://github.com/sevdaimany/3D-Scene-Reconstruction/blob/master/screenshots/reconstructed_1.png" width="150" />
-  <img src="https://github.com/sevdaimany/3D-Scene-Reconstruction/blob/master/screenshots/reconstructed_2.png" width="150" /> 
+  <img src="https://github.com/sevdaimany/3D-Scene-Reconstruction/blob/master/screenshots/reconstructed_1.png" width="350" />
+  <img src="https://github.com/sevdaimany/3D-Scene-Reconstruction/blob/master/screenshots/reconstructed_2.png" width="350" /> 
 </p>
 
 ### 🔹 Toy Data Example – Cube Reconstruction
